@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Habtamu Girum</h1>
 <h3 align="center">A passionate Software developer</h3>  solving problems using tech-stack like Python, React,TypeScript and more.
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=HabibiGirum&abbreviated=true)" alt="HabtamuGirum" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HabibiGirum&abbreviated=true" alt="HabtamuGirum" /> </p>
 
 
 - 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/habtamu-girum-832082245)
