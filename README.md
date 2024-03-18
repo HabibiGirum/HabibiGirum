@@ -12,4 +12,4 @@
 
 ![HabibiGirum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabibiGirum&theme=dark&hide_border=false)
 
-![HabibiGirum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
