@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habtamu Girum</h1>
-<h3 align="center">A passionate Software developer</h3>  solving problems using tech-stack like Python, React,DRF and more.
+<h3 align="center">A passionate Software developer</h3>  solving problems using tech-stack like Python, DRF, NextJs and Java.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HabibiGirum&abbreviated=true" alt="HabtamuGirum" /> </p>
 
