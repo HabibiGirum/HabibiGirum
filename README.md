@@ -8,7 +8,7 @@
 
 ## GitHub Stats
 
-[//]:![HabibiGirum's Stats](https://github-readme-stats.vercel.app/api?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&count_private=true)
+//:![HabibiGirum's Stats](https://github-readme-stats.vercel.app/api?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ## 📊 GitHub Stats
 ![HabibiGirum's Stats](https://github-readme-stats.vercel.app/api?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&count_private=true)
