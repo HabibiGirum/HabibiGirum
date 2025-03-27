@@ -7,10 +7,6 @@
 - 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/habtamu-girum-832082245)
 
 ## GitHub Stats
-
-//:![HabibiGirum's Stats](https://github-readme-stats.vercel.app/api?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-## 📊 GitHub Stats
 ![HabibiGirum's Stats](https://github-readme-stats.vercel.app/api?username=HabibiGirum&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabibiGirum&layout=compact&theme=blueberry)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabibiGirum&theme=blue)
